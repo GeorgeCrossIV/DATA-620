@@ -2,7 +2,7 @@
 
 This repository contains files used for the live sessions in Week 7 and Week 8 of the DATA 620 graduate class at UMGC.
 
-![UMGC Logo](umgc-logo.jpg))
+![UMGC Logo](umgc-logo.jpg)
 
 ## Instructor
 
