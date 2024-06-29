@@ -2,6 +2,15 @@
 
 This repository contains files used for the live sessions in Week 7 and Week 8 of the DATA 620 graduate class at UMGC.
 
+![UMGC Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/UMGC_Logo.svg/1200px-UMGC_Logo.svg.png)
+
+## Instructor
+
+**Dr. George Cross IV**  
+Adjunct Professor, Data Analytics Program  
+[George.Cross@faculty.umgc.edu](mailto:George.Cross@faculty.umgc.edu)  
+University of Maryland Global Campus
+
 ## Files
 
 - **hello.py**: A simple Python program that prints a greeting message.
@@ -18,3 +27,7 @@ To run the Python scripts, use the following command in your terminal:
 ```bash
 python <filename.py>
 ```
+Run the notebook in Google Collab, Visual Studio Code, or notebook such as Jupyter Notebook
+## Course Information
+
+These materials are part of the DATA 620 course at UMGC, focusing on foundational Python programming concepts.
